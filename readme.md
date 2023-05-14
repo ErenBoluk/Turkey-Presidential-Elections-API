@@ -4,6 +4,7 @@ With this API, you can retrieve information about the presidential election vote
 
 ## USAGE
 The data returned by the API is in JSON format.
+<br>
 Api Link : https:/secim.erenboluk.com
 
 # Türkiye Cumhurbaşkanı Seçimleri API
@@ -11,6 +12,7 @@ Bu API aracılığıyla Türkiye geneli ve il bazlı cumhurbaşkanı seçim oyla
 
 ## KULLANIM
 API tarafından döndürülen veriler JSON formatındadır.
+<br>
 API Bağlantı Linki: https:/secim.erenboluk.com
 
 ### RESPONSE 
