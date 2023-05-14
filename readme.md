@@ -7,6 +7,7 @@ The data returned by the API is in JSON format.
 Api Link : [https:/secim.erenboluk.com](https:/secim.erenboluk.com)
 
 ### RESPONSE 
+```
 {
     "success": true,
     "turkiyeGenel": [
