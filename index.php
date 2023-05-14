@@ -28,7 +28,7 @@ foreach ($JsonOy as $value) {
             'aday' => $adaylar[$value['k']],
             'kod' => $value['k'],
             'toplam' => $value['t'],
-            'yüzde' => $value['r']
+            'yüzde' => number_format($value['r'], 2, '.', '')
         ];
     }
     $snc[$plaka] = [
@@ -58,7 +58,7 @@ foreach ($genel as $key => $g) {
         [
             'aday' => $adaylar[$key],
             'oy' => $g,
-            'yüzde' => ($g / $gecerliOy) * 100
+            'yüzde' => number_format(($g / $gecerliOy) * 100, 2, '.', '')
         ];
 }
 
