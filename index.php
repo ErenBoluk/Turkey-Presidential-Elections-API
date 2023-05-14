@@ -67,6 +67,4 @@ $response = [
     'turkiyeGenel' => $percentages,
     'ilTaban' => $snc
 ];
-echo '<pre>';
-var_dump($response);
-// echo json_encode($response, JSON_UNESCAPED_UNICODE);
+echo json_encode($response, JSON_UNESCAPED_UNICODE);
