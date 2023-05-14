@@ -72,12 +72,3 @@ API Bağlantı Linki: [https:/secim.erenboluk.com](https:/secim.erenboluk.com)
         
  ```  
         
-        
-       # Türkiye Cumhurbaşkanı Seçimleri API
-        Bu API aracılığıyla Türkiye geneli ve il bazlı cumhurbaşkanı seçim oyları hakkında bilgi alabilirsiniz. API, Php kullanılarak oluşturulmuştur.
-
-        ##KULLANIM
-        API tarafından döndürülen veriler JSON formatındadır.
-        API Bağlantı Linki: https:/secim.erenboluk.com
-
-        ## YANIT
